@@ -1,5 +1,7 @@
 # node-sass-js-importer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Loilo/node-sass-js-importer.svg)](https://greenkeeper.io/)
+
 JavaScript object literal importer for [node-sass](https://github.com/sass/node-sass). Allows `@import`ing CommonJS modules (`.js` files) in Sass files parsed by `node-sass`.
 
 This is a fork of the [node-sass-json-importer](https://github.com/Updater/node-sass-json-importer) repository, adjusted for usage with JavaScript files.
