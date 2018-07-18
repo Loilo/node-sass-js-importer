@@ -1,6 +1,6 @@
 {
   "name": "node-sass-js-importer",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Allows importing CommonJS modules in Sass files parsed by node-sass.",
   "main": "dist/node-sass-js-importer.js",
   "license": "MIT",
@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "is-there": "^4.0.0",
-    "lodash": "^3.10.1"
+    "lodash": "^4.17.5"
   },
   "devDependencies": {
     "babel": "^5.8.23",
